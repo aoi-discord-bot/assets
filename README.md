@@ -1,3 +1,5 @@
 # aoi assets
 
-[Quotes](https://github.com/aoi-discord-bot/assets/raw/main/Quotes.json) - Berisikan quote berbahasa indonesia
+[Quotes](https://raw.githubusercontent.com/aoi-discord-bot/assets/main/Quotes.json) - Berisikan quote berbahasa indonesia
+
+[Bucin](https://raw.githubusercontent.com/aoi-discord-bot/assets/main/Bucin.json) - Bucin
